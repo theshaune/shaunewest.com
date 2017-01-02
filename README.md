@@ -1,10 +1,8 @@
 # shaunewest.com
 
-Don't take life too seriously, Enjoy.
-
 ## Looking for something? 
 
 - http://github.com/theshaune
-- http://dribbble.com/shaunewest
+- [Dribbble](https://dribbble.com/shaune)
 - http://twitter.com/shaunewest
 - http://stackoverflow.com/users/6712681/shaune
