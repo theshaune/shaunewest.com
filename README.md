@@ -1,5 +1,16 @@
 # shaunewest.com
 
+## Now
+
+- Developer in Melbourne
+
+## Interests
+
+- Architecure
+- Design
+- Entrepreneurship
+- Travel
+
 ## Looking for something? 
 
 - http://github.com/theshaune
