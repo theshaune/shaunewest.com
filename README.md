@@ -1,4 +1,4 @@
-# shaunewest.com
+# Shaune West
 
 ## Now
 
@@ -13,7 +13,7 @@
 
 ## Looking for something? 
 
-- http://github.com/theshaune
+- [GitHub](http://github.com/theshaune)
 - [Dribbble](https://dribbble.com/shaune)
-- http://twitter.com/shaunewest
-- http://stackoverflow.com/users/6712681/shaune
+- [Twitter](http://twitter.com/shaunewest)
+- [StackOverflow](http://stackoverflow.com/users/6712681/shaune)
