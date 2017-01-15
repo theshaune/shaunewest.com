@@ -13,7 +13,7 @@
 
 ## Looking for something? 
 
-- [GitHub](http://github.com/theshaune)
 - [Dribbble](https://dribbble.com/shaune)
-- [Twitter](http://twitter.com/shaunewest)
+- [GitHub](http://github.com/theshaune)
 - [StackOverflow](http://stackoverflow.com/users/6712681/shaune)
+- [Twitter](http://twitter.com/shaunewest)
