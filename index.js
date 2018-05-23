@@ -4,7 +4,7 @@ import {
 } from 'https://unpkg.com/lit-html/lib/lit-extended.js?module'
 
 const Link = html`
-  <a title='View Github' on-click=${event => increment()}>🕺</a>
+  <a title='View Github' href='https://github.com/theshaune/shaunewest.com' on-click=${event => increment()}>🕺</a>
 `
 
 const App = () => html`
