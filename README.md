@@ -14,6 +14,7 @@
 ## Looking for something? 
 
 - [Dribbble](https://dribbble.com/shaune)
+- [Facebook](http://facebook.com/therealshaunewest)
 - [GitHub](http://github.com/theshaune)
 - [Instagram](http://instagram.com/shaunewest)
 - [LinkedIn](https://www.linkedin.com/in/shaunewest/)
