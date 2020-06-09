@@ -7,11 +7,12 @@ const theme: Theme = {
     monospace: 'Menlo, monospace',
   },
   fontSizes: [
-    'calc(1vw + 0.5rem)',
-    'calc(1vw + .75rem)',
-    'calc(1vw + 1rem)',
-    'calc(1vw + 1.5rem)',
-    'calc(1vw + 2rem)',
+    /* H6 */ 'calc(1vw + 0.5rem)',
+    /* H5 */ 'calc(1vw + .75rem)',
+    /* H4 */ 'calc(1vw + 1rem)',
+    /* H3 */ 'calc(1vw + 1.5rem)',
+    /* H2 */ 'calc(1vw + 2rem)',
+    /* H1 */ 'calc(1vw + 2rem)',
   ],
   colors: {
     text: '#000',
