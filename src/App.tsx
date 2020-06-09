@@ -2,15 +2,17 @@
 import { jsx, ThemeProvider } from 'theme-ui'
 import './App.css'
 import theme from './theme'
+import GlobalStyles from './Components/GlobalStyles/GlobalStyles'
 
 function App(): JSX.Element {
   return (
     <ThemeProvider theme={theme}>
+      <GlobalStyles />
       <div className="App">
         <header className="App-header">
-          <p>Hello</p>
+          <p sx={{ fontSize: 4 }}>Hello &amp; Welcome</p>
           <a
-            sx={{ color: 'text' }}
+            sx={{ color: 'text', fontSize: 3 }}
             href="https://github.com/theshaune"
             target="_blank"
             rel="noopener noreferrer"
