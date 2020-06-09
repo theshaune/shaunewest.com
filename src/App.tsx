@@ -1,13 +1,12 @@
-import React from "react";
 /** @jsx jsx */
-import { jsx, ThemeProvider } from "theme-ui";
-import "./App.css";
-import theme from './theme';
+import { jsx, ThemeProvider } from 'theme-ui'
+import './App.css'
+import theme from './theme'
 
-function App() {
+function App(): JSX.Element {
   return (
     <ThemeProvider theme={theme}>
-      <div className="App" >
+      <div className="App">
         <header className="App-header">
           <p>Hello</p>
           <a
@@ -21,7 +20,7 @@ function App() {
         </header>
       </div>
     </ThemeProvider>
-  );
+  )
 }
 
-export default App;
+export default App
