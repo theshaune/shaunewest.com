@@ -3,6 +3,7 @@ import { jsx, ThemeProvider } from 'theme-ui'
 import './App.css'
 import theme from './theme'
 import GlobalStyles from './Components/GlobalStyles/GlobalStyles'
+import GithubIcon from './Components/Icons/Github'
 
 function App(): JSX.Element {
   return (
@@ -10,14 +11,14 @@ function App(): JSX.Element {
       <GlobalStyles />
       <div className="App">
         <header className="App-header">
-          <p sx={{ fontSize: 4 }}>Hello &amp; Welcome</p>
+          <p sx={{ fontSize: 3 }}>Hello</p>
           <a
-            sx={{ color: 'text', fontSize: 3 }}
+            sx={{ color: 'text', width: '2rem' }}
             href="https://github.com/theshaune"
             target="_blank"
             rel="noopener noreferrer"
           >
-            View Source
+            <GithubIcon sx={{ fill: 'white', width: 'icon.2' }} />
           </a>
         </header>
       </div>
