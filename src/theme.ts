@@ -7,12 +7,12 @@ const theme: Theme  = {
     monospace: 'Menlo, monospace',
   },
   fontSizes: [
-    /* H6 */ 'calc(1vw + 0.5rem)',
-    /* H5 */ 'calc(1vw + .75rem)',
-    /* H4 */ 'calc(1vw + 1rem)',
-    /* H3 */ 'calc(1vw + 1.5rem)',
-    /* H2 */ 'calc(1vw + 2rem)',
-    /* H1 */ 'calc(1vw + 2rem)',
+    /* H6 */ 'calc(1vmin + 0.5rem)',
+    /* H5 */ 'calc(1vmin + .75rem)',
+    /* H4 */ 'calc(1vmin + 1rem)',
+    /* H3 */ 'calc(1vmin + 1.5rem)',
+    /* H2 */ 'calc(1vmin + 2rem)',
+    /* H1 */ 'calc(1vmin + 2rem)',
   ],
   colors: {
     text: '#000',
@@ -21,11 +21,11 @@ const theme: Theme  = {
   },
   sizes: {
     icon: [
-      /* xs */ 'calc(1vw + 0.5rem)',
-      /* sm */ 'calc(1vw + 1rem)',
-      /* md */ 'calc(1vw + 1.5rem)',
-      /* lg */ 'calc(1vw + 2rem)',
-      /* xl */ 'calc(1vw + 4rem)',
+      /* xs */ 'calc(1vmin + 0.5rem)',
+      /* sm */ 'calc(1vmin + 1rem)',
+      /* md */ 'calc(1vmin + 1.5rem)',
+      /* lg */ 'calc(1vmin + 2rem)',
+      /* xl */ 'calc(1vmin + 4rem)',
     ],
   },
 }
