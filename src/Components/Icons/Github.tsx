@@ -1,14 +1,10 @@
-// import * as React from 'react'
-/** @jsx jsx */
-import { jsx, SxStyleProp } from 'theme-ui'
+import * as React from 'react'
+import { Icon, IconProps } from './Icons.types'
 
-type Props = {
-  className?: string
-  focusable?: boolean
-  sx?: SxStyleProp
-}
-
-const IconGithub = ({ focusable = false, className }: Props): JSX.Element => (
+const IconGithub: Icon = ({
+  focusable = false,
+  className,
+}: IconProps): JSX.Element => (
   <svg
     role="img"
     viewBox="0 0 24 24"

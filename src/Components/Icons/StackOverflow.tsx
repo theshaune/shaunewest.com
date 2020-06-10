@@ -1,17 +1,10 @@
-// import * as React from 'react'
-/** @jsx jsx */
-import { jsx, SxStyleProp } from 'theme-ui'
+import * as React from 'react'
+import { Icon, IconProps } from './Icons.types'
 
-type Props = {
-  className?: string
-  focusable?: boolean
-  sx?: SxStyleProp
-}
-
-const StackOverflowIcon = ({
+const StackOverflowIcon: Icon = ({
   focusable = false,
   className,
-}: Props): JSX.Element => (
+}: IconProps): JSX.Element => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 120 120"
