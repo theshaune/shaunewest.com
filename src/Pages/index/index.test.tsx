@@ -5,6 +5,6 @@ import { PAGE_TITLE } from './index.constants'
 
 test('renders page title', () => {
   const { getByText } = render(<IndexPage />)
-  const linkElement = getByText(`/${PAGE_TITLE}/i`)
+  const linkElement = getByText(PAGE_TITLE)
   expect(linkElement).toBeInTheDocument()
 })
