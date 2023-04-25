@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Now
 
-- Developer in Melbourne
+- Developer
 
 ## Interests
 
