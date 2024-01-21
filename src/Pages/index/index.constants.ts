@@ -1,1 +1,1 @@
-export const PAGE_TITLE = 'สวัสดีชาวโลก'
+export const PAGE_TITLE = 'ハロー・ワールド'
